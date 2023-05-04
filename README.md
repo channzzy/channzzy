@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying on **SMKN 1 Cirebon**
 
-- ✍️  I’m currently learning **Laravel, JavaScript , And Anything What I Want**
+- ✍️  I’m currently learning **Anything What I Want**
 
 - 📫 How to reach me **chandraardiansyah265@gmail.com**
 
