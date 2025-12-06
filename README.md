@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Chandra Ardiansyah</h1>
+<h1 align="center">Hi 👋, I'm Chanzy</h1>
 
-- 🏫 I’m currently studying on **SMKN 1 Cirebon**
-
-- ✍️  I’m currently learning **Anything What I Want**
-
-- 📫 How to reach me **chandraardiansyah265@gmail.com**
+<p>Only a young man who has dreams as high as the sky</p>
